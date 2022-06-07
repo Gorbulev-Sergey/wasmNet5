@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="K:\Visual Studio 2022\wasmNet5\bin\Release\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="K:\Visual Studio 2022\wasmNet5\obj\Release\net5.0\scopedcss\bundle\" />
+</StaticWebAssets>
